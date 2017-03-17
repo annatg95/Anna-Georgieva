@@ -174,7 +174,7 @@ ngl::Transformation t;
  // ngl::VAOPrimitives::instance()->draw("teapot");
 
 
-m_emitter->draw();
+//m_emitter->draw();
 
 }
 
