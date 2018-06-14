@@ -11,7 +11,7 @@ def createFenceShape(hh,ww):
 		cmds.select('pCube1.vtx[11]','pCube1.vtx[13:14]', 'pCube1.vtx[8]')
 		cmds.move(0.0,0.18,0.0,r=True)
 	else: 
-		print("fuck off")
+		print("try again")
 		
 	
 
